@@ -1,0 +1,26 @@
+
+#hash1 # aaa #hash2
+
+[* bold]
+[[bold too]]
+
+hello
+
+ parent
+   child
+
+[http://www.nifty.com]
+
+code:text
+  hello
+  world
+  
+  end
+
+normal text
+
+inline code `aaa` `b b` `c\`c`
+
+$ aaa
+% hello
+
